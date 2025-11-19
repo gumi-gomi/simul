@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/simul/static/css/main.93a0497a.css",
-    "main.js": "/simul/static/js/main.8cd4c00e.js",
+    "main.js": "/simul/static/js/main.892c39e9.js",
     "index.html": "/simul/index.html",
     "main.93a0497a.css.map": "/simul/static/css/main.93a0497a.css.map",
-    "main.8cd4c00e.js.map": "/simul/static/js/main.8cd4c00e.js.map"
+    "main.892c39e9.js.map": "/simul/static/js/main.892c39e9.js.map"
   },
   "entrypoints": [
     "static/css/main.93a0497a.css",
-    "static/js/main.8cd4c00e.js"
+    "static/js/main.892c39e9.js"
   ]
 }
